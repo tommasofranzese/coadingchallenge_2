@@ -1,0 +1,18 @@
+body {
+  background-image: url(background.jpg);
+  background-size: cover;
+}
+div {
+  font: normal 10px Verdana;
+}
+#BOX {
+  filter: alpha(opacity=80);
+    position: Absolute;
+    top: 75px;
+    left: 85px;
+    background-color: #EEEEEE;
+    width: 60%;
+    height: 300px;
+    padding: 30px;
+    border: Solid 1px #CCCCCC;
+}
